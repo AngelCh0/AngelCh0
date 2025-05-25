@@ -9,4 +9,3 @@
 
 
 - Soy un Desarrollador Back-End de Lima Metropolitana, Perú :peru:.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
