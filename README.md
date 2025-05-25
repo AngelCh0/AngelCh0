@@ -6,3 +6,7 @@
   Hola, Angel Fabian
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
+
+- Soy un Desarrollador Back-End de Lima Metropolitana, Perú 🇵🇪.
+- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
