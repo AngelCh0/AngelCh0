@@ -17,11 +17,6 @@ Soy un Desarrollador Back End de Lima Metropolitana, Perú :globe_with_meridians
 Estoy construyendo mi carrera como desarrollador web back-end, enfocándome en el diseño de arquitecturas, desarrollo de APIs y mejora de procesos. Actualmente tengo  experiencia con herramientas como Django y bases de datos relacionales como PostgreSQL, MySQL y SQL Server, Me interesa crear soluciones eficientes, escalables y orientadas a buenas prácticas de desarrollo
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
-
 #### 🔧 Tecnologias
 
 <div align="center">
