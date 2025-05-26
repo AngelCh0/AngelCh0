@@ -18,8 +18,11 @@ Estoy construyendo mi carrera como desarrollador web back-end, enfocándome en e
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-### 🔧 Tecnologias
 
+
+<h2>
+🔧 Tecnologias
+</h2>
 <div align="center">
 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
