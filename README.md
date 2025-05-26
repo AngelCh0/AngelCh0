@@ -9,3 +9,4 @@
 
 
 - Soy un Desarrollador Back End de Lima Metropolitana, Perú :globe_with_meridians:.
+- Estoy construyendo mi carrera como desarrollador web back-end, enfocándome en el diseño de arquitecturas, desarrollo de APIs y mejora de procesos. Actualmente tengo  experiencia con herramientas como Django y bases de datos relacionales como PostgreSQL, MySQL y SQL Server, Me interesa crear soluciones eficientes, escalables y orientadas a buenas prácticas de desarrollo
