@@ -8,4 +8,4 @@
 </h3>
 
 
-- Soy un Desarrollador Back-End de Lima Metropolitana, Perú :peru:.
+- Soy un Desarrollador Back End de Lima Metropolitana, Perú :globe_with_meridians:.
